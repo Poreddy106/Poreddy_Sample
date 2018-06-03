@@ -2,4 +2,4 @@ Im using this file for confilts
 me and sunil created dis file 
 sample merge
 
-line number 5
+line number 5 with sample
